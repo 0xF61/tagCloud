@@ -14,3 +14,7 @@ If you want to build:
 `go build main.go`
 
 NOTE: If you build you still need to move tpl folder with binary!
+
+# ScreenShot
+
+![ScreenShot](screenshot.png)
